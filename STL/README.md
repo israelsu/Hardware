@@ -4,4 +4,5 @@ will be add in the future :)
 
 
 
-file name MachCube_Plate v1.stl
+file name MachCube_Plate v1.stl / complete.step 
+
